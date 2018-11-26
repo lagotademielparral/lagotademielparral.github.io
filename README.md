@@ -1,2 +1,2 @@
-# enriquemv17.github.io
-Proyecto diseño web TELECOMUNICACIONES
+# lagotademielparral.github.io
+e-commerce web project
