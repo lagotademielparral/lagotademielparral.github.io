@@ -508,3 +508,8 @@ ul.social-buttons {
     background-color: #212529; }
     ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover {
       background-color: #fed136; }
+
+@media(max-width: 500px){
+  .team-member img {
+    width: 300px;
+    height: 275px;} }
