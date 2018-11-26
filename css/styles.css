@@ -429,7 +429,7 @@ header.masthead {
   text-align: center; }
   .team-member img {
     width: 500px;
-    height: 470px;
+    height: 475px;
     border: 7px solid #fff; }
   .team-member h4 {
     margin-top: 25px;
@@ -508,3 +508,8 @@ ul.social-buttons {
     background-color: #212529; }
     ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover {
       background-color: #fed136; }
+
+@media(max-width: 500px){
+  .team-member img {
+    width: 300px;
+    height: 275px;} }
